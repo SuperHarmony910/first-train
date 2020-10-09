@@ -1,6 +1,6 @@
 public class Creator {
     public static void main(String[] args) {
-    String name = "Safin Zaman";
+    String name = "<name-omitted>";
     int yearBorn = 2008;
     System.out.print("Hi! My name is ");
     System.out.print(name);
